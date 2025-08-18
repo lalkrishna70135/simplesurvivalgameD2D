@@ -32,8 +32,9 @@ The player controls a character who must dodge cannonballs fired from two cannon
 
 ## 🖥️ Gameplay Preview
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1a15c845-9c96-451d-92e1-54cdf0bc460c" width="600" alt="Gameplay Preview"/>
+  <img src="https://github.com/your-username/your-repo/blob/main/assets/gameplay.gif?raw=true" width="600" alt="Gameplay Preview"/>
 </p>
+
 
 ---
 
