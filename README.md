@@ -29,11 +29,9 @@ The player controls a character who must dodge cannonballs fired from two cannon
 - **Direct2D Rendering** – Smooth rendering with hardware acceleration.
 
 ---
-
 ## 🖥️ Gameplay Preview
-<p align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/assets/gameplay.gif?raw=true" width="600" alt="Gameplay Preview"/>
-</p>
+[▶️ Watch Gameplay Video](https://github.com/user-attachments/assets/1a15c845-9c96-451d-92e1-54cdf0bc460c)
+
 
 
 ---
